@@ -27,7 +27,7 @@
     },
     {
       "name": "charts_common",
-      "rootUri": "file:///C:/Users/Amos/flutter/.pub-cache/hosted/pub.dartlang.org/charts_common-0.11.0",
+      "rootUri": "file:///C:/Users/Amos/flutter/.pub-cache/hosted/pub.dartlang.org/charts_common-0.12.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -51,9 +51,9 @@
     },
     {
       "name": "cupertino_icons",
-      "rootUri": "file:///C:/Users/Amos/flutter/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-0.1.3",
+      "rootUri": "file:///C:/Users/Amos/flutter/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-1.0.4",
       "packageUri": "lib/",
-      "languageVersion": "2.0"
+      "languageVersion": "2.12"
     },
     {
       "name": "fake_async",
@@ -164,7 +164,7 @@
       "languageVersion": "1.23"
     }
   ],
-  "generated": "2022-01-24T12:22:18.474112Z",
+  "generated": "2022-01-24T12:31:25.943684Z",
   "generator": "pub",
   "generatorVersion": "2.15.1"
 }

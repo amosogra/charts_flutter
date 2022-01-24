@@ -27,6 +27,7 @@ import 'package:charts_common/common.dart' as common
         StyleFactory,
         TextElement,
         TextDirection;
+import 'package:charts_common/src/chart/common/chart_canvas.dart';
 import 'package:flutter/material.dart';
 import 'text_element.dart' show TextElement;
 import 'canvas/circle_sector_painter.dart' show CircleSectorPainter;
@@ -429,4 +430,9 @@ class ChartCanvas implements common.ChartCanvas {
 
   @override
   set drawingView(String? viewName) {}
+
+  @override
+  void drawLink(Link link, LinkOrientation orientation, common.Color fill) {
+    // TODO: implement drawLink
+  }
 }
